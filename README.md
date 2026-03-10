@@ -8,7 +8,7 @@
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/sanda-ismail-oladimeji-400371229)
 
 
-## 👨‍💼 About Me
+## About Me
 
 I am **Sanda Ismail Oladimeji**, an emerging **public policy researcher, aspiring business analyst, and digital strategy enthusiast** passionate about solving complex social and economic challenges through data-driven insights and innovative thinking.
 
@@ -19,14 +19,14 @@ Through research collaborations, leadership roles, and professional experience, 
 I am currently strengthening my analytical capacity by studying **Microsoft Business Analytics on Coursera**, with the goal of becoming a **business analyst who leverages data to support strategic decision-making, policy innovation, and sustainable development**.
 
 
-## 🎯 Career Vision
+## Career Vision
 
 My long-term goal is to work at the intersection of **data, policy, and strategy**, helping organizations and institutions make better decisions through **data-driven insights and analytical thinking**.
 
 I aspire to contribute to solutions that strengthen **governance systems, improve business decision-making, and promote sustainable and inclusive development across Africa**.
 
 
-## 🎓 Education
+## Education
 
 ### University of Ibadan
 **Bachelor of Science (B.Sc.) Political Science**  
@@ -42,7 +42,7 @@ Relevant Coursework:
 - Public Sector Administration Models
 
 
-## 📚 Professional Development
+## Professional Development
 
 ### Aspire Leaders Program  
 **Aspire Institute, Harvard Business School**  
@@ -77,16 +77,16 @@ Currently learning:
 - Analytical decision-making
 
 
-## 🏆 Innovation & Hackathon Achievement
+## Innovation & Hackathon Achievement
 
-### 🥇 Global AI Hackathon Winner – 2026
+### Global AI Hackathon Winner – 2026
 
 Organized by **Cayu AI and Aspire Institute**
 
 Worked with a **team of five innovators** to develop an **AI-powered sustainable solution addressing food security challenges**. The project focused on applying artificial intelligence to improve food systems, agricultural planning, and sustainable resource management.
 
 
-## 🔬 Research & Publications
+## Research & Publications
 
 ### Government Response to Disaster Management in Oyo State: The 2024 Bodija Explosion
 Published in **African Journal for the Psychological Studies of Social Issues (2025)**
@@ -100,7 +100,7 @@ Published by **International Institute of SDGs & Public Policy Research (IISPR),
 Collaborative international research exploring policy frameworks supporting **economic inclusion of persons with disabilities**.
 
 
-## 💼 Professional Experience
+## Professional Experience
 
 ### Operations Manager  
 **Bimaplan Consult Ltd – Oyo, Nigeria**  
@@ -133,7 +133,7 @@ Achievements:
 - Coordinated sales strategies and team operations.
 
 
-## 👥 Leadership Experience
+## Leadership Experience
 
 ### Vice President  
 **Federation of Ibadan Students’ Union**  
@@ -173,7 +173,7 @@ University of Ibadan
 Represented **Republic of Djibouti** and participated in diplomatic policy debates.
 
 
-## 🏅 Awards & Recognition
+## Awards & Recognition
 
 - Award of Service — Federation of Ibadan Students’ Union (2025)
 - Top 4 Essay Award — Ruth Titilayo Educational Foundation (2024)
