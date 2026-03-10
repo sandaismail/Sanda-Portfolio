@@ -7,7 +7,6 @@
 📞 +234 807 823 9107  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/sanda-ismail-oladimeji-400371229)
 
----
 
 ## 👨‍💼 About Me
 
@@ -19,7 +18,6 @@ Through research collaborations, leadership roles, and professional experience, 
 
 I am currently strengthening my analytical capacity by studying **Microsoft Business Analytics on Coursera**, with the goal of becoming a **business analyst who leverages data to support strategic decision-making, policy innovation, and sustainable development**.
 
----
 
 ## 🎯 Career Vision
 
@@ -27,7 +25,6 @@ My long-term goal is to work at the intersection of **data, policy, and strategy
 
 I aspire to contribute to solutions that strengthen **governance systems, improve business decision-making, and promote sustainable and inclusive development across Africa**.
 
----
 
 ## 🎓 Education
 
@@ -44,7 +41,6 @@ Relevant Coursework:
 - Globalization and Politics of Development  
 - Public Sector Administration Models
 
----
 
 ## 📚 Professional Development
 
@@ -58,7 +54,6 @@ Key Learning Areas:
 - Strategic Project Planning  
 - Professional Profile Development
 
----
 
 ### Tony Elumelu Foundation Business Development Training  
 **Business Fundamentals Certificate**  
@@ -70,7 +65,6 @@ Training focused on:
 - Financial planning  
 - Market positioning
 
----
 
 ### Microsoft Business Analytics (Ongoing)
 **Coursera**
@@ -82,7 +76,6 @@ Currently learning:
 - Data Visualization  
 - Analytical decision-making
 
----
 
 ## 🏆 Innovation & Hackathon Achievement
 
@@ -92,23 +85,20 @@ Organized by **Cayu AI and Aspire Institute**
 
 Worked with a **team of five innovators** to develop an **AI-powered sustainable solution addressing food security challenges**. The project focused on applying artificial intelligence to improve food systems, agricultural planning, and sustainable resource management.
 
----
 
 ## 🔬 Research & Publications
 
 ### Government Response to Disaster Management in Oyo State: The 2024 Bodija Explosion
 Published in **African Journal for the Psychological Studies of Social Issues (2025)**
 
-This research examined government response mechanisms to disaster management in Oyo State and provided recommendations for improving emergency preparedness and environmental governance.
+This research examined government response mechasms to disaster management in Oyo State and provided recommendations for improving emergency preparedness and environmental governance.
 
----
 
 ### Disability Inclusion in the Indian Economy
 Published by **International Institute of SDGs & Public Policy Research (IISPR), India (2025)**
 
 Collaborative international research exploring policy frameworks supporting **economic inclusion of persons with disabilities**.
 
----
 
 ## 💼 Professional Experience
 
@@ -122,7 +112,6 @@ Key Contributions:
 - Implemented strategies that increased monthly conversions from **5 to 15 sales**.
 - Optimized Google Business profile and brand visibility.
 
----
 
 ### Digital Marketing Intern  
 **The Product Dojo – Lagos, Nigeria**  
@@ -133,7 +122,6 @@ Responsibilities included:
 - Recommending SEO optimization strategies.
 - Conducting marketing performance analysis to support strategic decisions.
 
----
 
 ### Sales Manager  
 **Ibrahim Mattress Depot – Oyo, Nigeria**  
@@ -144,7 +132,6 @@ Achievements:
 - Introduced flexible payment options for customers.
 - Coordinated sales strategies and team operations.
 
----
 
 ## 👥 Leadership Experience
 
@@ -157,21 +144,18 @@ University of Ibadan
 - Participated in community environmental clean-up initiatives.
 - Supported administrative coordination and leadership strategy.
 
----
 
 ### Coordinator  
 **University of Ibadan Personalities of the Week**
 
 - Coordinated recognition of **100+ outstanding students** across academics, leadership, business, and sports.
 
----
 
 ### Senator  
 **National Association of Political Science Students**
 
 - Participated in legislative oversight and policy recommendations.
 
----
 
 ## 🌍 Volunteering
 
@@ -182,14 +166,12 @@ University of Ibadan
 - Supports teaching of foundational literacy and numeracy.
 - Contributes to digital outreach and awareness campaigns.
 
----
 
 ### Model United Nations Delegate  
 **University of Ibadan Model United Nations (UIMUN)**
 
 Represented **Republic of Djibouti** and participated in diplomatic policy debates.
 
----
 
 ## 🏅 Awards & Recognition
 
@@ -198,7 +180,6 @@ Represented **Republic of Djibouti** and participated in diplomatic policy debat
 - Overall Best Volunteer — Raising Girls’ Ambition Initiative (2020)
 - Winner — Global AI Hackathon (Cayu AI & Aspire Institute, 2026)
 
----
 
 ## 🧠 Skills
 
@@ -223,14 +204,12 @@ Represented **Republic of Djibouti** and participated in diplomatic policy debat
 - Emotional Intelligence
 - Team Management
 
----
 
 ## 🌐 Languages
 
 English  
 Yoruba
 
----
 
 ## 🔍 Research Interests
 
@@ -241,7 +220,6 @@ Yoruba
 - Governance and Public Administration  
 - Digital Innovation for Development
 
----
 
 ## 📫 Let's Connect
 
